@@ -1,0 +1,25 @@
+button{
+  background-color: blue;
+  color: white;
+  padding:20px;
+  margin:20px;
+  border:none;
+  border-radius: 10px;
+  width:150px;
+  
+}
+
+.hoverbtn{
+  background-color: blue;
+  color: white;
+  padding:20px;
+  margin:20px;
+  border:none;
+  border-radius: 10px;
+  width:150px;
+}
+
+.hoverbtn:hover{
+  box-shadow: 12px 5px 10px grey;
+  cursor: pointer;
+}
